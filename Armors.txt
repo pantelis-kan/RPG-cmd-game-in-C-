@@ -1,0 +1,4 @@
+Bronze_Armor 200 1 200
+Chainmail 600 3 500
+Mythril_Armor 1000 6 850
+Golden_Armor 4500 10 2000
